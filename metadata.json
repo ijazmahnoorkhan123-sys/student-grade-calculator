@@ -1,0 +1,6 @@
+{
+  "name": "Student Grade Calculator",
+  "description": "A responsive, elegant, and interactive single-page application to calculate total marks, percentage, and letter grades for five subjects with visual statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
